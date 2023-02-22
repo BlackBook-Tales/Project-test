@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "C:/Users/Thomas/Documents/KiCad/6.0/Libraries/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "8_Bit Computer")(type "KiCad")(uri "${KIPRJMOD}/8_Bit Computer.pretty")(options "")(descr ""))
+)

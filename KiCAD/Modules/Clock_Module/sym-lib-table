@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Clock_Module")(type "KiCad")(uri "${KIPRJMOD}/Clock_Module-backups/Clock_Module.kicad_sym")(options "")(descr ""))
+)
